@@ -1,7 +1,7 @@
 let config = {
     port: process.env.PORT || 3000,
     db: {
-        uri: process.env.DATABASE_URL || 'postgresql://_54786febab5cee09:_58167a3649348f24dad30e7bd5476f@primary.postgres--gq4kpmjzkffq.addon.code.run:5432',
+        uri: process.env.DATABASE_URL || 'postgresql://_601b175320df86c3:_3bffd5b4e19b8f0e07043eec6ad095@primary.postgres--gq4kpmjzkffq.addon.code.run:5432/_0d46a6b5a4cc',
         options: {
             logging: false
         }
